@@ -74,9 +74,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYUNKISEO&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HYUNKISEO&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HYUNKISEO&theme=tokyonight" width="45%"/>
 </p>
-
 ---
 
 <!-- 5. 연락처 및 깃허브 블로그(TIL) -->
