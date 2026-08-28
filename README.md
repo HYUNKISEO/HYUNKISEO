@@ -79,14 +79,17 @@
 
 ---
 
-<!-- 5. 연락처 및 깃허브 블로그(TIL) -->
+<!-- 연락처 및 주요 링크 -->
 ## 📫 Connect & Archive
+
 <p>
   <a href="mailto:sjy6149@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- 💡 깃허브에 학습 내용을 정리해둔 리포지토리가 있다면 아래 링크에 연결하세요! -->
-  <a href="https://github.com/YOUR_GITHUB_ID/TIL">
-    <img src="https://img.shields.io/badge/GitHub_TIL-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/HYUNKISEO/linux-study" target="_blank">
+    <img src="https://img.shields.io/badge/Linux_Study-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Study" />
+  </a>
+  <a href="https://github.com/HYUNKISEO?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
 </p>
