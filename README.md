@@ -74,7 +74,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HYUNKISEO&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HYUNKISEO&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=HYUNKISEO&theme=tokyonight" width="48%"/>
 </p>
 
 ---
