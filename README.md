@@ -73,9 +73,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYUNKISEO&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HYUNKISEO&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HYUNKISEO&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HYUNKISEO&theme=tokyonight" width="48%"/>
 </p>
+
 ---
 
 <!-- 5. 연락처 및 깃허브 블로그(TIL) -->
