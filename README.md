@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HYUNKISEO&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYUNKISEO&layout=compact&theme=tokyonight&cache_seconds=86400" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYUNKISEO&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=HYUNKISEO&theme=tokyonight" width="45%"/>
 </p>
 
 ---
